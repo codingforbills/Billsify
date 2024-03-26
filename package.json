@@ -1,0 +1,23 @@
+{
+  "name": "billsify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app"
+  },
+  "keywords": [],
+  "author": "codingforbills",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.9",
+    "express": "^4.19.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5",
+    "nodemon": "^3.1.0"
+  }
+}
